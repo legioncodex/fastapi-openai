@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Environment variables (keeps your Groq API key safe!)
+.env
+
+# Local ChromaDB vector database storage
+chroma_db/
+
+# Uploaded PDFs folder
+upload/
+
+# Python cache files
+__pycache__/
+*.pyc
